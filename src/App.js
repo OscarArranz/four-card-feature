@@ -7,13 +7,13 @@ import CalculatorIcon from './assets/icon-calculator.svg';
 function App() {
   return (
     <div className="text-center py-20 px-9">
-      <header className="lg:flex flex-col items-center">
+      <header>
         <h1 className="font-thin text-3xl text-very-dark-blue leading-9 mb-5">
           Reliable, efficient delivery
           <br />
           <b className="font-bold">Powered by Technology</b>
         </h1>
-        <p className="text-grayish-blue tracking-tight mb-20 lg:w-4/12 lg:px-12">
+        <p className="text-grayish-blue tracking-tight m-auto mb-20 md:w-2/3 xl:w-1/2 2xl:w-5/12 2xl:px-12">
           Our Artificial Intelligence powered tools use millions of project data
           points to ensure that your project is successful
         </p>

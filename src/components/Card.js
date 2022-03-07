@@ -1,3 +1,9 @@
+// Hotfix to load Tailwindcss classes before dynamically setting them up
+// border-cyan
+// border-red
+// border-orange
+// border-blue
+
 export default function Card({ title, content, iconURL, color }) {
   return (
     <div

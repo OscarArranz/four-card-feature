@@ -54,6 +54,7 @@ function App() {
             className="text-blue"
             href="https://www.frontendmentor.io?ref=challenge"
             target="_blank"
+            rel="noreferrer"
           >
             Frontend Mentor
           </a>

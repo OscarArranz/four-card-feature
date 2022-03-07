@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://oscararranz.github.io/four-card-feature/)
+- Solution URL: [GitHub Pages](https://oscararranz.github.io/four-card-feature/)
 
 ## My process
 

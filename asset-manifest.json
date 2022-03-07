@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/four-card-feature/static/css/main.15173a66.css",
+    "main.js": "/four-card-feature/static/js/main.8d8fcf83.js",
+    "static/js/787.b217c2a9.chunk.js": "/four-card-feature/static/js/787.b217c2a9.chunk.js",
+    "static/media/logo.svg": "/four-card-feature/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/four-card-feature/index.html",
+    "main.15173a66.css.map": "/four-card-feature/static/css/main.15173a66.css.map",
+    "main.8d8fcf83.js.map": "/four-card-feature/static/js/main.8d8fcf83.js.map",
+    "787.b217c2a9.chunk.js.map": "/four-card-feature/static/js/787.b217c2a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15173a66.css",
+    "static/js/main.8d8fcf83.js"
+  ]
+}

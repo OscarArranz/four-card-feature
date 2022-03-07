@@ -1,7 +1,7 @@
 module.exports = {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   mode: 'jit',
-  purge: './src/**/*.{js,jsx,ts,tsx}',
+  content: './src/**/*.{js,jsx,ts,tsx}',
   theme: {
     boxShadow: {
       card: '0 15px 30px -15px hsl(212, 60%, 80%)',
